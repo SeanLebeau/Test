@@ -10,6 +10,19 @@
             "topLevel": true,
             "allAtoms": [
                 {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 803,
+                    "y": 100,
+                    "uniqueID": 985647,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1870,
@@ -21,5 +34,5 @@
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": 52
+    "circleSegmentSize": 2
 }
